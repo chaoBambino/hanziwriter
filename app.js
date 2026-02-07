@@ -13,8 +13,8 @@ async function init() {
     radicals,
     translations,
   ] = await Promise.all([
-    loadJSON("/static/radicals.json"),
-    loadJSON("/static/translations.json"),
+    loadJSON("https://raw.githubusercontent.com/chaoBambino/handwriting.github.io/refs/heads/main/radicals.json"),
+    loadJSON("https://raw.githubusercontent.com/chaoBambino/handwriting.github.io/refs/heads/main/translations.json"),
   ]);
 
   const tg = window.Telegram.WebApp;
