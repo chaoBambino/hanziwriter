@@ -10,8 +10,8 @@ async function updateTitles(pinyin, translation) {
 
 async function init() {
   const [
-    rads_traditional.json,
-    rads_simplified.json,
+    rads_traditional,
+    rads_simplified,
     translations,
   ] = await Promise.all([
     loadJSON("./rads_traditional.json"),
