@@ -79,7 +79,7 @@ if (theme && theme.bg_color) {
 const select = document.getElementById("radicalSelect");
 
 
-for (const el of radicals) {
+for (const el of rads_traditional) {
   const option = document.createElement("option");
   option.value = el.id;
   option.textContent = el.radical;
