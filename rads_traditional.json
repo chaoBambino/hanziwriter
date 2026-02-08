@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "1",
+    "cuantity": "21",
+    "title": "ㄧ",
+    "text": "一",
+    "cat": "1"
+  },
+  {
+    "id": "2",
+    "cuantity": "4",
+    "title": "ㄍㄨㄣˇ",
+    "text": "丨",
+    "cat": "1"
+  },
+  {
+    "id": "3",
+    "cuantity": "4",
+    "title": "ㄓㄨˇ",
+    "text": "丶",
+    "cat": "1"
+  },
+  {
+    "id": "4",
+    "cuantity": "13",
+    "title": "ㄆㄧㄝˇ",
+    "text": "丿",
+    "cat": "1"
+  },
+  {
+    "id": "5",
+    "cuantity": "9",
+    "title": "ㄧˇ",
+    "text": "乙",
+    "cat": "1"
+  },
+  {
+    "id": "6",
+    "cuantity": "3",
+    "title": "ㄐㄩㄝˊ",
+    "text": "亅",
+    "cat": "1"
+  },
+  {
+    "id": "7",
+    "cuantity": "11",
+    "title": "ㄦˋ",
+    "text": "二",
+    "cat": "2"
+  },
+  {
+    "id": "8",
+    "cuantity": "10",
+    "title": "ㄊㄡˊ",
+    "text": "亠",
+    "cat": "2"
+  },
+  {
+    "id": "9",
+    "cuantity": "226",
+    "title": "ㄖㄣˊ",
+    "text": "人",
+    "cat": "2"
+  },
+  {
+    "id": "10",
+    "cuantity": "19",
+    "title": "ㄖㄣˊ",
+    "text": "儿",
+    "cat": "2"
+  },
+  {
+    "id": "11",
+    "cuantity": "4",
+    "title": "ㄖㄨˋ",
+    "text": "入",
+    "cat": "2"
+  },
+  {
+    "id": "12",
+    "cuantity": "11",
+    "title": "ㄅㄚ",
+    "text": "八",
+    "cat": "2"
+  },
+  {
+    "id": "13",
+    "cuantity": "7",
+    "title": "ㄐㄩㄥ",
+    "text": "冂",
+    "cat": "2"
+  },
+  {
+    "id": "14",
+    "cuantity": "6",
+    "title": "ㄇㄧˋ",
+    "text": "冖",
+    "cat": "2"
+  },
+  {
+    "id": "15",
+    "cuantity": "11",
+    "title": "ㄅㄧㄥ",
+    "text": "冫",
+    "cat": "2"
+  },
+  {
+    "id": "16",
+    "cuantity": "4",
+    "title": "ㄐㄧ",
+    "text": "几",
+    "cat": "2"
+  },
+  {
+    "id": "17",
+    "cuantity": "5",
+    "title": "ㄎㄢˇ",
+    "text": "凵",
+    "cat": "2"
+  },
+  {
+    "id": "18",
+    "cuantity": "56",
+    "title": "ㄉㄠ",
+    "text": "刀",
+    "cat": "2"
+  },
+  {
+    "id": "19",
+    "cuantity": "30",
+    "title": "ㄌㄧˋ",
+    "text": "力",
+    "cat": "2"
+  },
+  {
+    "id": "20",
+    "cuantity": "10",
+    "title": "ㄅㄠ",
+    "text": "勹",
+    "cat": "2"
+  },
+  {
+    "id": "21",
+    "cuantity": "4",
+    "title": "ㄅㄧˇ",
+    "text": "匕",
+    "cat": "2"
+  },
+  {
+    "id": "22",
+    "cuantity": "8",
+    "title": "ㄈㄤ",
+    "text": "匚",
+    "cat": "2"
+  },
+  {
+    "id": "23",
+    "cuantity": "4",
+    "title": "ㄒㄧˋ",
+    "text": "匸",
+    "cat": "2"
+  },
+  {
+    "id": "24",
+    "cuantity": "13",
+    "title": "ㄕˊ",
+    "text": "十",
+    "cat": "2"
+  },
+  {
+    "id": "25",
+    "cuantity": "6",
+    "title": "ㄅㄨˇ",
+    "text": "卜",
+    "cat": "2"
+  },
+  {
+    "id": "26",
+    "cuantity": "11",
+    "title": "ㄐㄧㄝˊ",
+    "text": "卩",
+    "cat": "2"
+  },
+  {
+    "id": "27",
+    "cuantity": "8",
+    "title": "ㄏㄢˇ",
+    "text": "厂",
+    "cat": "2"
+  },
+  {
+    "id": "28",
+    "cuantity": "2",
+    "title": "ㄙ",
+    "text": "厶",
+    "cat": "2"
+  },
+  {
+    "id": "29",
+    "cuantity": "13",
+    "title": "ㄧㄡˋ",
+    "text": "又",
+    "cat": "2"
+  },
+  {
+    "id": "30",
+    "cuantity": "286",
+    "title": "ㄎㄡˇ",
+    "text": "口",
+    "cat": "3"
+  },
+  {
+    "id": "31",
+    "cuantity": "27",
+    "title": "ㄨㄟˊ",
+    "text": "囗",
+    "cat": "3"
+  },
+  {
+    "id": "32",
+    "cuantity": "116",
+    "title": "ㄊㄨˇ",
+    "text": "土",
+    "cat": "3"
+  },
+  {
+    "id": "33",
+    "cuantity": "6",
+    "title": "ㄕˋ",
+    "text": "士",
+    "cat": "3"
+  },
+  {
+    "id": "34",
+    "cuantity": "0",
+    "title": "",
+    "text": "夂",
+    "cat": "3"
+  },
+  {
+    "id": "35",
+    "cuantity": "2",
+    "title": "ㄙㄨㄟ",
+    "text": "夊",
+    "cat": "3"
+  },
+  {
+    "id": "36",
+    "cuantity": "9",
+    "title": "ㄒㄧˋ",
+    "text": "夕",
+    "cat": "3"
+  },
+  {
+    "id": "37",
+    "cuantity": "30",
+    "title": "ㄉㄚˋ",
+    "text": "大",
+    "cat": "3"
+  },
+  {
+    "id": "38",
+    "cuantity": "124",
+    "title": "ㄋㄩˇ",
+    "text": "女",
+    "cat": "3"
+  },
+  {
+    "id": "39",
+    "cuantity": "27",
+    "title": "ㄗˇ",
+    "text": "子",
+    "cat": "3"
+  },
+  {
+    "id": "40",
+    "cuantity": "55",
+    "title": "ㄇㄧㄢˊ",
+    "text": "宀",
+    "cat": "3"
+  },
+  {
+    "id": "41",
+    "cuantity": "11",
+    "title": "ㄘㄨㄣˋ",
+    "text": "寸",
+    "cat": "3"
+  },
+  {
+    "id": "42",
+    "cuantity": "5",
+    "title": "ㄒㄧㄠˇ",
+    "text": "小",
+    "cat": "3"
+  },
+  {
+    "id": "43",
+    "cuantity": "5",
+    "title": "ㄨㄤ",
+    "text": "尢",
+    "cat": "3"
+  },
+  {
+    "id": "44",
+    "cuantity": "28",
+    "title": "ㄕ",
+    "text": "尸",
+    "cat": "3"
+  },
+  {
+    "id": "45",
+    "cuantity": "1",
+    "title": "ㄔㄜˋ",
+    "text": "屮",
+    "cat": "3"
+  },
+  {
+    "id": "46",
+    "cuantity": "67",
+    "title": "ㄕㄢ",
+    "text": "山",
+    "cat": "3"
+  },
+  {
+    "id": "47",
+    "cuantity": "3",
+    "title": "ㄔㄨㄢ",
+    "text": "巛",
+    "cat": "3"
+  },
+  {
+    "id": "48",
+    "cuantity": "6",
+    "title": "ㄍㄨㄥ",
+    "text": "工",
+    "cat": "3"
+  },
+  {
+    "id": "49",
+    "cuantity": "7",
+    "title": "ㄐㄧˇ",
+    "text": "己",
+    "cat": "3"
+  },
+  {
+    "id": "50",
+    "cuantity": "39",
+    "title": "ㄐㄧㄣ",
+    "text": "巾",
+    "cat": "3"
+  },
+  {
+    "id": "51",
+    "cuantity": "6",
+    "title": "ㄍㄢ",
+    "text": "干",
+    "cat": "3"
+  },
+  {
+    "id": "52",
+    "cuantity": "4",
+    "title": "ㄧㄠ",
+    "text": "幺",
+    "cat": "3"
+  },
+  {
+    "id": "53",
+    "cuantity": "38",
+    "title": "ㄧㄢˇ",
+    "text": "广",
+    "cat": "3"
+  },
+  {
+    "id": "54",
+    "cuantity": "3",
+    "title": "ㄧㄣˇ",
+    "text": "廴",
+    "cat": "3"
+  },
+  {
+    "id": "55",
+    "cuantity": "5",
+    "title": "ㄍㄨㄥˇ",
+    "text": "廾",
+    "cat": "3"
+  },
+  {
+    "id": "56",
+    "cuantity": "3",
+    "title": "ㄧˋ",
+    "text": "弋",
+    "cat": "3"
+  },
+  {
+    "id": "57",
+    "cuantity": "21",
+    "title": "ㄍㄨㄥ",
+    "text": "弓",
+    "cat": "3"
+  },
+  {
+    "id": "58",
+    "cuantity": "5",
+    "title": "ㄐㄧˋ",
+    "text": "彐",
+    "cat": "3"
+  },
+  {
+    "id": "59",
+    "cuantity": "9",
+    "title": "ㄕㄢ",
+    "text": "彡",
+    "cat": "3"
+  },
+  {
+    "id": "60",
+    "cuantity": "34",
+    "title": "ㄔˋ",
+    "text": "彳",
+    "cat": "3"
+  },
+  {
+    "id": "61",
+    "cuantity": "200",
+    "title": "ㄒㄧㄣ",
+    "text": "心",
+    "cat": "4"
+  },
+  {
+    "id": "62",
+    "cuantity": "23",
+    "title": "ㄍㄜ",
+    "text": "戈",
+    "cat": "4"
+  },
+  {
+    "id": "63",
+    "cuantity": "9",
+    "title": "ㄏㄨˋ",
+    "text": "戶",
+    "cat": "4"
+  },
+  {
+    "id": "64",
+    "cuantity": "269",
+    "title": "ㄕㄡˇ",
+    "text": "手",
+    "cat": "4"
+  },
+  {
+    "id": "65",
+    "cuantity": "1",
+    "title": "ㄓ",
+    "text": "支",
+    "cat": "4"
+  },
+  {
+    "id": "66",
+    "cuantity": "32",
+    "title": "ㄆㄨ",
+    "text": "攴",
+    "cat": "4"
+  },
+  {
+    "id": "67",
+    "cuantity": "5",
+    "title": "ㄨㄣˊ",
+    "text": "文",
+    "cat": "4"
+  },
+  {
+    "id": "68",
+    "cuantity": "6",
+    "title": "ㄉㄡˇ",
+    "text": "斗",
+    "cat": "4"
+  },
+  {
+    "id": "69",
+    "cuantity": "9",
+    "title": "ㄐㄧㄣ",
+    "text": "斤",
+    "cat": "4"
+  },
+  {
+    "id": "70",
+    "cuantity": "14",
+    "title": "ㄈㄤ",
+    "text": "方",
+    "cat": "4"
+  },
+  {
+    "id": "71",
+    "cuantity": "1",
+    "title": "ㄨˊ",
+    "text": "无",
+    "cat": "4"
+  },
+  {
+    "id": "72",
+    "cuantity": "84",
+    "title": "ㄖˋ",
+    "text": "日",
+    "cat": "4"
+  },
+  {
+    "id": "73",
+    "cuantity": "11",
+    "title": "ㄩㄝ",
+    "text": "曰",
+    "cat": "4"
+  },
+  {
+    "id": "74",
+    "cuantity": "12",
+    "title": "ㄩㄝˋ",
+    "text": "月",
+    "cat": "4"
+  },
+  {
+    "id": "75",
+    "cuantity": "255",
+    "title": "ㄇㄨˋ",
+    "text": "木",
+    "cat": "4"
+  },
+  {
+    "id": "76",
+    "cuantity": "21",
+    "title": "ㄑㄧㄢˋ",
+    "text": "欠",
+    "cat": "4"
+  },
+  {
+    "id": "77",
+    "cuantity": "10",
+    "title": "ㄓˇ",
+    "text": "止",
+    "cat": "4"
+  },
+  {
+    "id": "78",
+    "cuantity": "20",
+    "title": "ㄉㄞˇ",
+    "text": "歹",
+    "cat": "4"
+  },
+  {
+    "id": "79",
+    "cuantity": "9",
+    "title": "ㄕㄨ",
+    "text": "殳",
+    "cat": "4"
+  },
+  {
+    "id": "80",
+    "cuantity": "5",
+    "title": "ㄨˊ",
+    "text": "毋",
+    "cat": "4"
+  },
+  {
+    "id": "81",
+    "cuantity": "3",
+    "title": "ㄅㄧˇ",
+    "text": "比",
+    "cat": "4"
+  },
+  {
+    "id": "82",
+    "cuantity": "10",
+    "title": "ㄇㄠˊ",
+    "text": "毛",
+    "cat": "4"
+  },
+  {
+    "id": "83",
+    "cuantity": "4",
+    "title": "ㄕˋ",
+    "text": "氏",
+    "cat": "4"
+  },
+  {
+    "id": "84",
+    "cuantity": "15",
+    "title": "ㄑㄧˋ",
+    "text": "气",
+    "cat": "4"
+  },
+  {
+    "id": "85",
+    "cuantity": "333",
+    "title": "ㄕㄨㄟˇ",
+    "text": "水",
+    "cat": "4"
+  },
+  {
+    "id": "86",
+    "cuantity": "106",
+    "title": "ㄏㄨㄛˇ",
+    "text": "火",
+    "cat": "4"
+  },
+  {
+    "id": "87",
+    "cuantity": "5",
+    "title": "ㄓㄠˇ",
+    "text": "爪",
+    "cat": "4"
+  },
+  {
+    "id": "88",
+    "cuantity": "4",
+    "title": "ㄈㄨˋ",
+    "text": "父",
+    "cat": "4"
+  },
+  {
+    "id": "89",
+    "cuantity": "3",
+    "title": "ㄧㄠˊ",
+    "text": "爻",
+    "cat": "4"
+  },
+  {
+    "id": "90",
+    "cuantity": "1",
+    "title": "ㄑㄧㄤˊ",
+    "text": "爿",
+    "cat": "4"
+  },
+  {
+    "id": "91",
+    "cuantity": "7",
+    "title": "ㄆㄧㄢˋ",
+    "text": "片",
+    "cat": "4"
+  },
+  {
+    "id": "92",
+    "cuantity": "1",
+    "title": "ㄧㄚˊ",
+    "text": "牙",
+    "cat": "4"
+  },
+  {
+    "id": "93",
+    "cuantity": "24",
+    "title": "ㄋㄧㄡˊ",
+    "text": "牛",
+    "cat": "4"
+  },
+  {
+    "id": "94",
+    "cuantity": "58",
+    "title": "ㄑㄩㄢˇ",
+    "text": "犬",
+    "cat": "4"
+  },
+  {
+    "id": "95",
+    "cuantity": "2",
+    "title": "ㄒㄩㄢˊ",
+    "text": "玄",
+    "cat": "5"
+  },
+  {
+    "id": "96",
+    "cuantity": "88",
+    "title": "ㄩˋ",
+    "text": "玉",
+    "cat": "5"
+  },
+  {
+    "id": "97",
+    "cuantity": "6",
+    "title": "ㄍㄨㄚ",
+    "text": "瓜",
+    "cat": "5"
+  },
+  {
+    "id": "98",
+    "cuantity": "9",
+    "title": "ㄨㄚˇ",
+    "text": "瓦",
+    "cat": "5"
+  },
+  {
+    "id": "99",
+    "cuantity": "3",
+    "title": "ㄍㄢ",
+    "text": "甘",
+    "cat": "5"
+  },
+  {
+    "id": "100",
+    "cuantity": "4",
+    "title": "ㄕㄥ",
+    "text": "生",
+    "cat": "5"
+  },
+  {
+    "id": "101",
+    "cuantity": "5",
+    "title": "ㄩㄥˋ",
+    "text": "用",
+    "cat": "5"
+  },
+  {
+    "id": "102",
+    "cuantity": "32",
+    "title": "ㄊㄧㄢˊ",
+    "text": "田",
+    "cat": "5"
+  },
+  {
+    "id": "103",
+    "cuantity": "3",
+    "title": "ㄕㄨ",
+    "text": "疋",
+    "cat": "5"
+  },
+  {
+    "id": "104",
+    "cuantity": "80",
+    "title": "ㄔㄨㄤˊ",
+    "text": "疒",
+    "cat": "5"
+  },
+  {
+    "id": "105",
+    "cuantity": "3",
+    "title": "ㄅㄛ",
+    "text": "癶",
+    "cat": "5"
+  },
+  {
+    "id": "106",
+    "cuantity": "14",
+    "title": "ㄅㄞˊ",
+    "text": "白",
+    "cat": "5"
+  },
+  {
+    "id": "107",
+    "cuantity": "5",
+    "title": "ㄆㄧˊ",
+    "text": "皮",
+    "cat": "5"
+  },
+  {
+    "id": "108",
+    "cuantity": "22",
+    "title": "ㄇㄧㄣˇ",
+    "text": "皿",
+    "cat": "5"
+  },
+  {
+    "id": "109",
+    "cuantity": "72",
+    "title": "ㄇㄨˋ",
+    "text": "目",
+    "cat": "5"
+  },
+  {
+    "id": "110",
+    "cuantity": "2",
+    "title": "ㄇㄠˊ",
+    "text": "矛",
+    "cat": "5"
+  },
+  {
+    "id": "111",
+    "cuantity": "8",
+    "title": "ㄕˇ",
+    "text": "矢",
+    "cat": "5"
+  },
+  {
+    "id": "112",
+    "cuantity": "71",
+    "title": "ㄕˊ",
+    "text": "石",
+    "cat": "5"
+  },
+  {
+    "id": "113",
+    "cuantity": "38",
+    "title": "ㄕˋ",
+    "text": "示",
+    "cat": "5"
+  },
+  {
+    "id": "114",
+    "cuantity": "4",
+    "title": "ㄖㄡˊ",
+    "text": "禸",
+    "cat": "5"
+  },
+  {
+    "id": "115",
+    "cuantity": "49",
+    "title": "ㄏㄜˊ",
+    "text": "禾",
+    "cat": "5"
+  },
+  {
+    "id": "116",
+    "cuantity": "30",
+    "title": "ㄒㄩㄝˋ",
+    "text": "穴",
+    "cat": "5"
+  },
+  {
+    "id": "117",
+    "cuantity": "8",
+    "title": "ㄌㄧˋ",
+    "text": "立",
+    "cat": "5"
+  },
+  {
+    "id": "118",
+    "cuantity": "104",
+    "title": "ㄓㄨˊ",
+    "text": "竹",
+    "cat": "6"
+  },
+  {
+    "id": "119",
+    "cuantity": "38",
+    "title": "ㄇㄧˇ",
+    "text": "米",
+    "cat": "6"
+  },
+  {
+    "id": "120",
+    "cuantity": "151",
+    "title": "ㄇㄧˋ",
+    "text": "糸",
+    "cat": "6"
+  },
+  {
+    "id": "121",
+    "cuantity": "11",
+    "title": "ㄈㄡˇ",
+    "text": "缶",
+    "cat": "6"
+  },
+  {
+    "id": "122",
+    "cuantity": "16",
+    "title": "ㄨㄤˇ",
+    "text": "网",
+    "cat": "6"
+  },
+  {
+    "id": "123",
+    "cuantity": "18",
+    "title": "ㄧㄤˊ",
+    "text": "羊",
+    "cat": "6"
+  },
+  {
+    "id": "124",
+    "cuantity": "24",
+    "title": "ㄩˇ",
+    "text": "羽",
+    "cat": "6"
+  },
+  {
+    "id": "125",
+    "cuantity": "6",
+    "title": "ㄌㄠˇ",
+    "text": "老",
+    "cat": "6"
+  },
+  {
+    "id": "126",
+    "cuantity": "3",
+    "title": "ㄦˊ",
+    "text": "而",
+    "cat": "6"
+  },
+  {
+    "id": "127",
+    "cuantity": "8",
+    "title": "ㄌㄟˇ",
+    "text": "耒",
+    "cat": "6"
+  },
+  {
+    "id": "128",
+    "cuantity": "25",
+    "title": "ㄦˇ",
+    "text": "耳",
+    "cat": "6"
+  },
+  {
+    "id": "129",
+    "cuantity": "5",
+    "title": "ㄩˋ",
+    "text": "聿",
+    "cat": "6"
+  },
+  {
+    "id": "130",
+    "cuantity": "108",
+    "title": "ㄖㄡˋ",
+    "text": "肉",
+    "cat": "6"
+  },
+  {
+    "id": "131",
+    "cuantity": "4",
+    "title": "ㄔㄣˊ",
+    "text": "臣",
+    "cat": "6"
+  },
+  {
+    "id": "132",
+    "cuantity": "3",
+    "title": "ㄗˋ",
+    "text": "自",
+    "cat": "6"
+  },
+  {
+    "id": "133",
+    "cuantity": "4",
+    "title": "ㄓˋ",
+    "text": "至",
+    "cat": "6"
+  },
+  {
+    "id": "134",
+    "cuantity": "9",
+    "title": "ㄐㄧㄡˋ",
+    "text": "臼",
+    "cat": "6"
+  },
+  {
+    "id": "135",
+    "cuantity": "5",
+    "title": "ㄕㄜˊ",
+    "text": "舌",
+    "cat": "6"
+  },
+  {
+    "id": "136",
+    "cuantity": "3",
+    "title": "ㄔㄨㄢˇ",
+    "text": "舛",
+    "cat": "6"
+  },
+  {
+    "id": "137",
+    "cuantity": "22",
+    "title": "ㄓㄡ",
+    "text": "舟",
+    "cat": "6"
+  },
+  {
+    "id": "138",
+    "cuantity": "3",
+    "title": "ㄍㄣˋ",
+    "text": "艮",
+    "cat": "6"
+  },
+  {
+    "id": "139",
+    "cuantity": "1",
+    "title": "ㄙㄜˋ",
+    "text": "色",
+    "cat": "6"
+  },
+  {
+    "id": "140",
+    "cuantity": "252",
+    "title": "ㄘㄠˇ",
+    "text": "艸",
+    "cat": "6"
+  },
+  {
+    "id": "141",
+    "cuantity": "11",
+    "title": "ㄏㄨ",
+    "text": "虍",
+    "cat": "6"
+  },
+  {
+    "id": "142",
+    "cuantity": "120",
+    "title": "ㄏㄨㄟˇ",
+    "text": "虫",
+    "cat": "6"
+  },
+  {
+    "id": "143",
+    "cuantity": "2",
+    "title": "ㄒㄧㄝˇ",
+    "text": "血",
+    "cat": "6"
+  },
+  {
+    "id": "144",
+    "cuantity": "12",
+    "title": "ㄒㄧㄥˊ",
+    "text": "行",
+    "cat": "6"
+  },
+  {
+    "id": "145",
+    "cuantity": "71",
+    "title": "ㄧ",
+    "text": "衣",
+    "cat": "6"
+  },
+  {
+    "id": "146",
+    "cuantity": "5",
+    "title": "ㄧㄚˋ",
+    "text": "襾",
+    "cat": "6"
+  },
+  {
+    "id": "147",
+    "cuantity": "12",
+    "title": "ㄐㄧㄢˋ",
+    "text": "見",
+    "cat": "7"
+  },
+  {
+    "id": "148",
+    "cuantity": "9",
+    "title": "ㄐㄧㄠˇ",
+    "text": "角",
+    "cat": "7"
+  },
+  {
+    "id": "149",
+    "cuantity": "151",
+    "title": "ㄧㄢˊ",
+    "text": "言",
+    "cat": "7"
+  },
+  {
+    "id": "150",
+    "cuantity": "3",
+    "title": "ㄍㄨˇ",
+    "text": "谷",
+    "cat": "7"
+  },
+  {
+    "id": "151",
+    "cuantity": "8",
+    "title": "ㄉㄡˋ",
+    "text": "豆",
+    "cat": "7"
+  },
+  {
+    "id": "152",
+    "cuantity": "7",
+    "title": "ㄕˇ",
+    "text": "豕",
+    "cat": "7"
+  },
+  {
+    "id": "153",
+    "cuantity": "8",
+    "title": "ㄓˋ",
+    "text": "豸",
+    "cat": "7"
+  },
+  {
+    "id": "154",
+    "cuantity": "61",
+    "title": "ㄅㄟˋ",
+    "text": "貝",
+    "cat": "7"
+  },
+  {
+    "id": "155",
+    "cuantity": "5",
+    "title": "ㄔˋ",
+    "text": "赤",
+    "cat": "7"
+  },
+  {
+    "id": "156",
+    "cuantity": "14",
+    "title": "ㄗㄡˇ",
+    "text": "走",
+    "cat": "7"
+  },
+  {
+    "id": "157",
+    "cuantity": "88",
+    "title": "ㄗㄨˊ",
+    "text": "足",
+    "cat": "7"
+  },
+  {
+    "id": "158",
+    "cuantity": "6",
+    "title": "ㄕㄣ",
+    "text": "身",
+    "cat": "7"
+  },
+  {
+    "id": "159",
+    "cuantity": "45",
+    "title": "ㄔㄜ",
+    "text": "車",
+    "cat": "7"
+  },
+  {
+    "id": "160",
+    "cuantity": "8",
+    "title": "ㄒㄧㄣ",
+    "text": "辛",
+    "cat": "7"
+  },
+  {
+    "id": "161",
+    "cuantity": "3",
+    "title": "ㄔㄣˊ",
+    "text": "辰",
+    "cat": "7"
+  },
+  {
+    "id": "162",
+    "cuantity": "111",
+    "title": "ㄔㄨㄛˋ",
+    "text": "辵",
+    "cat": "7"
+  },
+  {
+    "id": "163",
+    "cuantity": "40",
+    "title": "ㄧˋ",
+    "text": "邑",
+    "cat": "7"
+  },
+  {
+    "id": "164",
+    "cuantity": "47",
+    "title": "ㄧㄡˇ",
+    "text": "酉",
+    "cat": "7"
+  },
+  {
+    "id": "165",
+    "cuantity": "3",
+    "title": "ㄅㄧㄢˋ",
+    "text": "釆",
+    "cat": "7"
+  },
+  {
+    "id": "166",
+    "cuantity": "5",
+    "title": "ㄌㄧˇ",
+    "text": "里",
+    "cat": "7"
+  },
+  {
+    "id": "167",
+    "cuantity": "150",
+    "title": "ㄐㄧㄣ",
+    "text": "金",
+    "cat": "8"
+  },
+  {
+    "id": "168",
+    "cuantity": "1",
+    "title": "ㄔㄤˊ",
+    "text": "長",
+    "cat": "8"
+  },
+  {
+    "id": "169",
+    "cuantity": "40",
+    "title": "ㄇㄣˊ",
+    "text": "門",
+    "cat": "8"
+  },
+  {
+    "id": "170",
+    "cuantity": "58",
+    "title": "ㄈㄨˋ",
+    "text": "阜",
+    "cat": "8"
+  },
+  {
+    "id": "171",
+    "cuantity": "1",
+    "title": "ㄉㄞˋ",
+    "text": "隶",
+    "cat": "8"
+  },
+  {
+    "id": "172",
+    "cuantity": "24",
+    "title": "ㄓㄨㄟ",
+    "text": "隹",
+    "cat": "8"
+  },
+  {
+    "id": "173",
+    "cuantity": "37",
+    "title": "ㄩˇ",
+    "text": "雨",
+    "cat": "8"
+  },
+  {
+    "id": "174",
+    "cuantity": "5",
+    "title": "ㄑㄧㄥ",
+    "text": "青",
+    "cat": "8"
+  },
+  {
+    "id": "175",
+    "cuantity": "3",
+    "title": "ㄈㄟ",
+    "text": "非",
+    "cat": "8"
+  },
+  {
+    "id": "176",
+    "cuantity": "3",
+    "title": "ㄇㄧㄢˋ",
+    "text": "面",
+    "cat": "9"
+  },
+  {
+    "id": "177",
+    "cuantity": "17",
+    "title": "ㄍㄜˊ",
+    "text": "革",
+    "cat": "9"
+  },
+  {
+    "id": "178",
+    "cuantity": "6",
+    "title": "ㄨㄟˊ",
+    "text": "韋",
+    "cat": "9"
+  },
+  {
+    "id": "179",
+    "cuantity": "1",
+    "title": "ㄐㄧㄡˇ",
+    "text": "韭",
+    "cat": "9"
+  },
+  {
+    "id": "180",
+    "cuantity": "6",
+    "title": "ㄧㄣ",
+    "text": "音",
+    "cat": "9"
+  },
+  {
+    "id": "181",
+    "cuantity": "45",
+    "title": "ㄧㄝˋ",
+    "text": "頁",
+    "cat": "9"
+  },
+  {
+    "id": "182",
+    "cuantity": "10",
+    "title": "ㄈㄥ",
+    "text": "風",
+    "cat": "9"
+  },
+  {
+    "id": "183",
+    "cuantity": "1",
+    "title": "ㄈㄟ",
+    "text": "飛",
+    "cat": "9"
+  },
+  {
+    "id": "184",
+    "cuantity": "49",
+    "title": "ㄕˊ",
+    "text": "食",
+    "cat": "9"
+  },
+  {
+    "id": "185",
+    "cuantity": "3",
+    "title": "ㄕㄡˇ",
+    "text": "首",
+    "cat": "9"
+  },
+  {
+    "id": "186",
+    "cuantity": "3",
+    "title": "ㄒㄧㄤ",
+    "text": "香",
+    "cat": "9"
+  },
+  {
+    "id": "187",
+    "cuantity": "50",
+    "title": "ㄇㄚˇ",
+    "text": "馬",
+    "cat": "10"
+  },
+  {
+    "id": "188",
+    "cuantity": "13",
+    "title": "ㄍㄨˇ",
+    "text": "骨",
+    "cat": "10"
+  },
+  {
+    "id": "189",
+    "cuantity": "1",
+    "title": "ㄍㄠ",
+    "text": "高",
+    "cat": "10"
+  },
+  {
+    "id": "190",
+    "cuantity": "19",
+    "title": "ㄅㄧㄠ",
+    "text": "髟",
+    "cat": "10"
+  },
+  {
+    "id": "191",
+    "cuantity": "5",
+    "title": "ㄉㄡˋ",
+    "text": "鬥",
+    "cat": "10"
+  },
+  {
+    "id": "192",
+    "cuantity": "1",
+    "title": "ㄔㄤˋ",
+    "text": "鬯",
+    "cat": "10"
+  },
+  {
+    "id": "193",
+    "cuantity": "1",
+    "title": "ㄌㄧˋ",
+    "text": "鬲",
+    "cat": "10"
+  },
+  {
+    "id": "194",
+    "cuantity": "11",
+    "title": "ㄍㄨㄟˇ",
+    "text": "鬼",
+    "cat": "10"
+  },
+  {
+    "id": "195",
+    "cuantity": "44",
+    "title": "ㄩˊ",
+    "text": "魚",
+    "cat": "11"
+  },
+  {
+    "id": "196",
+    "cuantity": "51",
+    "title": "ㄋㄧㄠˇ",
+    "text": "鳥",
+    "cat": "11"
+  },
+  {
+    "id": "197",
+    "cuantity": "4",
+    "title": "ㄌㄨˇ",
+    "text": "鹵",
+    "cat": "11"
+  },
+  {
+    "id": "198",
+    "cuantity": "11",
+    "title": "ㄌㄨˋ",
+    "text": "鹿",
+    "cat": "11"
+  },
+  {
+    "id": "199",
+    "cuantity": "5",
+    "title": "ㄇㄞˋ",
+    "text": "麥",
+    "cat": "11"
+  },
+  {
+    "id": "200",
+    "cuantity": "3",
+    "title": "ㄇㄚˊ",
+    "text": "麻",
+    "cat": "11"
+  },
+  {
+    "id": "201",
+    "cuantity": "2",
+    "title": "ㄏㄨㄤˊ",
+    "text": "黃",
+    "cat": "12"
+  },
+  {
+    "id": "202",
+    "cuantity": "3",
+    "title": "ㄕㄨˇ",
+    "text": "黍",
+    "cat": "12"
+  },
+  {
+    "id": "203",
+    "cuantity": "15",
+    "title": "ㄏㄟ",
+    "text": "黑",
+    "cat": "12"
+  },
+  {
+    "id": "204",
+    "cuantity": "3",
+    "title": "ㄓˇ",
+    "text": "黹",
+    "cat": "12"
+  },
+  {
+    "id": "205",
+    "cuantity": "3",
+    "title": "ㄇㄧㄣˇ",
+    "text": "黽",
+    "cat": "13"
+  },
+  {
+    "id": "206",
+    "cuantity": "2",
+    "title": "ㄉㄧㄥˇ",
+    "text": "鼎",
+    "cat": "13"
+  },
+  {
+    "id": "207",
+    "cuantity": "3",
+    "title": "ㄍㄨˇ",
+    "text": "鼓",
+    "cat": "13"
+  },
+  {
+    "id": "208",
+    "cuantity": "4",
+    "title": "ㄕㄨˇ",
+    "text": "鼠",
+    "cat": "13"
+  },
+  {
+    "id": "209",
+    "cuantity": "2",
+    "title": "ㄅㄧˊ",
+    "text": "鼻",
+    "cat": "14"
+  },
+  {
+    "id": "210",
+    "cuantity": "4",
+    "title": "ㄑㄧˊ",
+    "text": "齊",
+    "cat": "14"
+  },
+  {
+    "id": "211",
+    "cuantity": "13",
+    "title": "ㄔˇ",
+    "text": "齒",
+    "cat": "15"
+  },
+  {
+    "id": "212",
+    "cuantity": "3",
+    "title": "ㄌㄨㄥˊ",
+    "text": "龍",
+    "cat": "16"
+  },
+  {
+    "id": "213",
+    "cuantity": "1",
+    "title": "ㄍㄨㄟ",
+    "text": "龜",
+    "cat": "16"
+  },
+  {
+    "id": "214",
+    "cuantity": "2",
+    "title": "ㄩㄝˋ",
+    "text": "龠",
+    "cat": "17"
+  }
+]
