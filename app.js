@@ -82,7 +82,7 @@ const select = document.getElementById("radicalSelect");
 for (const el of rads_traditional) {
   const option = document.createElement("option");
   option.value = el.id;
-  option.textContent = el.radical;
+  option.textContent = el.text;
   select.appendChild(option);
 }
 
