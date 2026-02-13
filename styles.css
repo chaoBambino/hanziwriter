@@ -2,13 +2,14 @@
   --side-gap: 5vw; /* отступ слева/справа и снизу у нижнего блока */
   --lower-bottom-gap: 5vw; /* отступ снизу для нижнего блока */
   --radius: 12px;
-  --upper-bg: #ffffff;
-  --lower-bg: #ffffff;
-  --body-bg: #f6f5f3;
-  --border: rgba(0,0,0,0.08);
-  --text-color: #111;
-  --translation-color: rgba(0,0,0,0.7);
-  --box-shadow: rgba(0,0,0,0.04);
+
+  --upper-bg: var(--tg-theme-bg_color);
+  --lower-bg: var(--tg-theme-bg_color);
+  --body-bg: var(--tg-theme-secondary_bg_color);
+  --border: var(--tg-theme-section_separator_color);
+  --text-color: var(--tg-theme-subtitle_text_color);
+  --translation-color: var(--tg-theme-subtitle_text_color);
+  --box-shadow: var(--tg-theme-section_bg_color);
 }
 
 #radicalSelect {
